@@ -21,6 +21,7 @@ node_modules/
 jspm_packages/
 
 # VSCode
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
