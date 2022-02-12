@@ -1,129 +1,127 @@
-{
-  "pencils": [
-    {
-      "company": "Eberhard Faber",
-      "model": [
-        {
-          "model_name": "Blackwing",
-          "model_number": "602",
-          "grade":  "N/A",
-          "graphite_scale": "N/A", 
-          "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
-        },
-        {
-          "model_name": "Mongol",
-          "model_number": "482",
-          "grade":  ["1", "2", "3", "4", "5"],
-          "graphite_scale": ["Numerical Graphite Scale", "HB Graphite Scale"], 
-          "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
-        }, 
-        {
-          "model_name": "Microtomic",
-          "model_number": ["600", "603"],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"], 
-          "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
-        }, 
-        {
-          "model_name": "Van Dyke",
-          "model_number": ["600", "601"],
-          "grade": ["1", "2", "2 3/8", "3", "4", "5", "6", "8B", "6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["Numerical Graphite Scale", "HB Graphite Scale"], 
-          "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
-        }
-      ]
-    },
-    {
-      "company": "Tombow",
-      "model": [
-        {
-          "model_name": "Mono 100",
-          "model_number": ["None", "01", "02", "03", "04"],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"]
-        },
-        {
-          "model_name": "Mono 50",
-          "model_number": ["None", "01", "02", "03", "04"],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"] 
-        },
-        {
-          "model_name": "Mono 30",
-          "model_number": ["None", "01", "02", "03", "04"],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"] 
-        },
-        {
-          "model_name": "Mono R",
-          "model_number": ["None", "01", "02", "03", "04"],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"] 
-        },
-        {
-          "model_name": "Mono J",
-          "model_number": ["None", "01", "02", "03", "04"],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"] 
-        },
-        {
-          "model_name": "Mono",
-          "model_number": ["None", "01", "02", "03", "04"],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"] 
-        }
-      ]
-    },
-    {
-      "company": "Eagle", 
-      "model": [
-        {
-          "model_name": "Black Warrior",
-          "model_number": ["372"],
-          "grade": ["1", "2", "2 3/8", "3", "4", "5", "6"],
-          "graphite_scale": ["Numerical Graphite Scale"],
-          "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
-        },
-        {
-          "model_name": "Draughting",
-          "model_number": ["314"],
-          "grade": ["N/A"],
-          "graphite_scale": ["N/A"],
-          "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
-        }
-      ]
-    }, 
-    {
-      "company": "Pentel", 
-      "model": [
-        {
-          "model_name": "Black Polymer", 
-          "model_number": [],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"]  
-        },
-        {
-          "model_name": "Tuff",
-          "model_number": [],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"]  
-        },
-        {
-          "model_name": "Mark Sheet",
-          "model_number": ["CBM10"],
-          "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
-          "graphite_scale": ["HB Graphite Scale"],
-          "country": ["Japan", "Thailand"]  
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "company": "Eberhard Faber",
+    "model": [
+      {
+        "model_name": "Blackwing",
+        "model_number": "602",
+        "grade":  "N/A",
+        "graphite_scale": "N/A", 
+        "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
+      },
+      {
+        "model_name": "Mongol",
+        "model_number": "482",
+        "grade":  ["1", "2", "3", "4", "5"],
+        "graphite_scale": ["Numerical Graphite Scale", "HB Graphite Scale"], 
+        "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
+      }, 
+      {
+        "model_name": "Microtomic",
+        "model_number": ["600", "603"],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"], 
+        "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
+      }, 
+      {
+        "model_name": "Van Dyke",
+        "model_number": ["600", "601"],
+        "grade": ["1", "2", "2 3/8", "3", "4", "5", "6", "8B", "6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["Numerical Graphite Scale", "HB Graphite Scale"], 
+        "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
+      }
+    ]
+  },
+  {
+    "company": "Tombow",
+    "model": [
+      {
+        "model_name": "Mono 100",
+        "model_number": ["None", "01", "02", "03", "04"],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"]
+      },
+      {
+        "model_name": "Mono 50",
+        "model_number": ["None", "01", "02", "03", "04"],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"] 
+      },
+      {
+        "model_name": "Mono 30",
+        "model_number": ["None", "01", "02", "03", "04"],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"] 
+      },
+      {
+        "model_name": "Mono R",
+        "model_number": ["None", "01", "02", "03", "04"],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"] 
+      },
+      {
+        "model_name": "Mono J",
+        "model_number": ["None", "01", "02", "03", "04"],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"] 
+      },
+      {
+        "model_name": "Mono",
+        "model_number": ["None", "01", "02", "03", "04"],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"] 
+      }
+    ]
+  },
+  {
+    "company": "Eagle", 
+    "model": [
+      {
+        "model_name": "Black Warrior",
+        "model_number": ["372"],
+        "grade": ["1", "2", "2 3/8", "3", "4", "5", "6"],
+        "graphite_scale": ["Numerical Graphite Scale"],
+        "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
+      },
+      {
+        "model_name": "Draughting",
+        "model_number": ["314"],
+        "grade": ["N/A"],
+        "graphite_scale": ["N/A"],
+        "country": ["Britain", "Canada", "China", "Denmark", "France", "Japan", "Mexico", "Portugal", "South Korea", "Thailand", "U.S.A"]
+      }
+    ]
+  }, 
+  {
+    "company": "Pentel", 
+    "model": [
+      {
+        "model_name": "Black Polymer", 
+        "model_number": [],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"]  
+      },
+      {
+        "model_name": "Tuff",
+        "model_number": [],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"]  
+      },
+      {
+        "model_name": "Mark Sheet",
+        "model_number": ["CBM10"],
+        "grade": ["6B", "5B", "4B", "3B", "2B", "B", "HB", "F", "H", "2H", "3H", "4H", "5H", "6H", "7H", "8H", "9H"],
+        "graphite_scale": ["HB Graphite Scale"],
+        "country": ["Japan", "Thailand"]  
+      }
+    ]
+  }
+]
